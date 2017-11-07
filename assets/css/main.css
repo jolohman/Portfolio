@@ -1134,7 +1134,7 @@
 			transition: opacity 0.2s ease-in-out;
 			position: absolute;
 			top: 0;
-			width: 50%;
+			width: 25%;
 			height: 100%;
 			opacity: 0;
 			cursor: pointer;
